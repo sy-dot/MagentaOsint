@@ -18,7 +18,7 @@ print(Fore.MAGENTA + '''
                                                               Created by Sy
 ''' )
 
-query   = input(Back.BLACK + Fore.MAGENTA + 'Find > ' + Back.RESET + Fore.YELLOW)
+query   = input(Back.BLACK + Fore.MAGENTA + 'Search _>>> ' + Back.RESET + Fore.YELLOW)
 results = 100
 
 print(Fore.GREEN + '[~] Searching ' + query)
